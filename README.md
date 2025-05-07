@@ -39,7 +39,7 @@ Eli Rayburn - eraybu4@lsu.edu
     - If I were given the opportunity to do this project again, I would develop a better graphical interface.
       instead of the slots just flashing between sprite images I would find a way to make it look like it was 
       actually rotating up and down, while still maintaining the random generation. I would also refine the sounds
-      to make them more in line with what na actual slot machine sounds like. I would also add new interactive 
+      to make them more in line with what an actual slot machine sounds like. I would also add new interactive 
       features to the hardware components, an extra button for changing bet size, a pullable lever to simulate 
       pulling the lever on the slot machine, etc.
   
