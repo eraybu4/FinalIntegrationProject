@@ -12,6 +12,7 @@ Eli Rayburn - eraybu4@lsu.edu
 
   ![Screenshot 2025-05-07 172418](https://github.com/user-attachments/assets/070b8921-d708-4312-8ec4-7561517003d9)
 
+
  **- Audio Components using tone.js**
      - Multiple different sound synthesizers for rolling sound, jackpot sound, losing sound
      - Roll sound created by using an Oscillator with an Amplitude Envelope, activated each time a sprite
@@ -27,7 +28,8 @@ Eli Rayburn - eraybu4@lsu.edu
 
  **- Wiring Diagram for Arduino and Hardware Components:**
   
-   ![Screenshot 2025-05-07 171920](https://github.com/user-attachments/assets/5363cecf-bc56-42af-809b-7e3fa46dab31)
+   ![Screenshot 2025-05-07 173321](https://github.com/user-attachments/assets/cc4682fb-7570-4ad5-834f-a7dffcc0811e)
+
 
  **- Youtube Video of Example Usage:**
 
